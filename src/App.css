@@ -1,0 +1,16 @@
+.jumbotron {
+  background-color: #70b91dd0;
+  color: rgb(2, 1, 1);
+  padding: 70px 0;
+  text-align: center;
+}
+.brand-icon {
+    font-size: 70px;
+}
+
+.Logout{
+  position: absolute;
+  left: 1270px;
+  top: 10px;
+  background-color: #51a351;
+  }

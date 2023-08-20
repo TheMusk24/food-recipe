@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "firstname": "Anuj",
+      "lastname": "Punasiya",
+      "email": "anuj.punasiya99@gmail.com",
+      "password": "1234",
+      "id": 10
+    },
+    {
+      "firstname": "anand",
+      "lastname": "lokre",
+      "email": "lokreanand@gmail.com",
+      "password": "12345",
+      "id": 9
+    },
+    {
+      "firstname": "Prashant",
+      "lastname": "Kalmodiya",
+      "email": "prashant@gmail.com",
+      "password": "12345",
+      "id": 11
+    },
+    {
+      "firstname": "Vivek",
+      "lastname": "Rajput",
+      "email": "vivek@gmail.com",
+      "password": "123456",
+      "id": 12
+    },
+    {
+      "firstname": "Abhay",
+      "lastname": "Vishwakarma",
+      "email": "abhay@gmail.com",
+      "password": "321",
+      "id": 13
+    },
+    {
+      "firstname": "anuj",
+      "lastname": "punasiya",
+      "email": "anuj@gmail.com",
+      "password": "12345",
+      "id": 14
+    },
+    {
+      "firstname": "anuj",
+      "lastname": "punasiya",
+      "email": "anujpunasiya@gmail.com",
+      "password": "123456",
+      "id": 15
+    },
+    {
+      "firstname": "anuj",
+      "lastname": "punasiya",
+      "email": "anujp@gmail.com",
+      "password": "1234567",
+      "id": 16
+    },
+    {
+      "firstname": "muskan ",
+      "lastname": "singh",
+      "email": "muskan@gmail.com",
+      "password": "12345",
+      "id": 17
+    },
+    {
+      "firstname": "kaaluram",
+      "lastname": "punasiya",
+      "email": "kaalu123@gmail.com",
+      "password": "kaalu123",
+      "id": 18
+    }
+  ]
+}
